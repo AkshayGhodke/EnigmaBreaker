@@ -7,14 +7,7 @@ The code can guess the plugboard settings correctly taking into consideration th
 The known/guessed text must be as good as a sentence(long text)
 The known/guessed text must be the starting content of the actual message
 
-Note : These assumptions are made to save some permutations and combination the code has to go through otherwise.
-
-It took almost 3 days time to :
-
-Understand
-Analyze
-Design the algorithm
-Implement
+Note : These assumptions are made to save some permutations and combinations the code has to go through otherwise.
 
 Run as follows:
 
